@@ -1,5 +1,8 @@
 # VFDS: Variational Foresight Dynamic Selection
 
+["VFDS: Variational Foresight Dynamic Selection in Bayesian Neural Networks for Efficient Human Activity Recognition
+"](https://proceedings.mlr.press/v151/ardywibowo22a.html)
+
 Randy Ardywibowo, Shahin Boluki, Zhangyang Wang, Bobak Mortazavi, Shuai Huang, Xiaoning Qian
 
 ## Overview
